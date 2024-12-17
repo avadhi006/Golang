@@ -1,0 +1,3 @@
+//start the nginx server: start nginx
+//stop the nginx server : nginx -s stop 
+
